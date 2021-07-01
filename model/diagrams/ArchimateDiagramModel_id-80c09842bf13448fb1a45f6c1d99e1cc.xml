@@ -892,9 +892,69 @@
       name="Arquitectura de negocios AS IS - Procesos estratégicos"
       textAlignment="1">
     <bounds
-        x="-396"
-        y="1440"
+        x="-348"
+        y="1416"
         width="2232"
-        height="323"/>
+        height="529"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-43677edffcf24d258469030366961299">
+      <bounds
+          x="1327"
+          y="225"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-e3ebc0a4ef4a47acb21bc32b28f12331.xml#id-e3ebc0a4ef4a47acb21bc32b28f12331"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c2d5e74481f24cc08aa772382b241c1f">
+      <bounds
+          x="1644"
+          y="231"
+          width="133"
+          height="70"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-10edebb4fc7f4e47b2e003984c2e3ed9.xml#id-10edebb4fc7f4e47b2e003984c2e3ed9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c8a3ef88a7ed41278d2321986c2acba8">
+      <bounds
+          x="1488"
+          y="369"
+          width="139"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-8fc66008e8cb4eb3bde9be84738028a6.xml#id-8fc66008e8cb4eb3bde9be84738028a6"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-85907f770a0c4539bdfbb3451705b475">
+      <bounds
+          x="1897"
+          y="239"
+          width="144"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-da3770ca6eba41c49ec1e87eaf5d6457.xml#id-da3770ca6eba41c49ec1e87eaf5d6457"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-904514ff1d8a4c2e9ac10cfbb4b3b22b">
+      <bounds
+          x="1248"
+          y="362"
+          width="151"
+          height="59"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-a028340020ec478aacbbd73624cc290e.xml#id-a028340020ec478aacbbd73624cc290e"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
