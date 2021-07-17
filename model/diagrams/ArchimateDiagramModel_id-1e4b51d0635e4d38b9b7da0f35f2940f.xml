@@ -280,42 +280,4 @@
           href="BusinessProcess_id-b4149abacbbd47a39ab75bfe94097700.xml#id-b4149abacbbd47a39ab75bfe94097700"/>
     </children>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-88f3b679ba44481abe5c497e976acbb3"
-      name="Procesos de Evaluación"
-      textAlignment="1"
-      fillColor="#9393ca">
-    <bounds
-        x="486"
-        y="756"
-        width="673"
-        height="121"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d6db5b0c476a45cc8139ecd7d335cf8c"
-        fillColor="#8756f8">
-      <bounds
-          x="168"
-          y="48"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-64b72c36ac584ac7b7ab0ac63bfe0604.xml#id-64b72c36ac584ac7b7ab0ac63bfe0604"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-0182e12f4dfc4bc4b40749efc791be99"
-        fillColor="#8756f8">
-      <bounds
-          x="384"
-          y="48"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-48f06c8e6c82479288534193c270b0df.xml#id-48f06c8e6c82479288534193c270b0df"/>
-    </children>
-  </children>
 </archimate:ArchimateDiagramModel>
