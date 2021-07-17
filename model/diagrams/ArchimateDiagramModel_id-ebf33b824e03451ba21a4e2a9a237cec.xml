@@ -39,7 +39,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0fa8654524874c9b9d567d25f8f018a3"
-        targetConnections="id-24dc8df987814032aa843ce1538316ef id-47ec977c62644c5793579454ca42628a"
+        targetConnections="id-24dc8df987814032aa843ce1538316ef"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -594,28 +594,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-bfdce5831137451da115c6c979120463"
-        textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-47ec977c62644c5793579454ca42628a"
-          source="id-bfdce5831137451da115c6c979120463"
-          target="id-0fa8654524874c9b9d567d25f8f018a3">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-db065d383e52410f92c2be7e806484d0.xml#id-db065d383e52410f92c2be7e806484d0"/>
-      </sourceConnections>
-      <bounds
-          x="12"
-          y="229"
-          width="145"
-          height="109"/>
-      <archimateElement
-          xsi:type="archimate:CourseOfAction"
-          href="CourseOfAction_id-044e611dfd45433ca522e1b9b0120f65.xml#id-044e611dfd45433ca522e1b9b0120f65"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-001a91ccff984619b5907f330cc1ddb2">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -853,7 +831,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-1c43965bd89e4d3383b653df15b10dd5"
-      name="Arquitectura de negocios AS IS - Procesos estratégicos"
+      name="Arquitectura de negocios TO BE - Procesos estratégicos"
       textAlignment="1"
       fillColor="#ffffd2">
     <bounds
@@ -927,15 +905,6 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-6d6858f742974b1bad7f2a8d3e18a9f1.xml#id-6d6858f742974b1bad7f2a8d3e18a9f1"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-43c69ebfecdd4699a102be30e73b5606"
-          source="id-da945c298c7d40629a1d2633c6f3a756"
-          target="id-da094514c4fc43ba8c407cfefa46c455">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-c3a4d36d2d3f41658494f8cf4751c910.xml#id-c3a4d36d2d3f41658494f8cf4751c910"/>
-      </sourceConnections>
       <bounds
           x="53"
           y="768"
@@ -946,7 +915,7 @@
           id="id-b447438828b5430e96e737608697de57"
           targetConnections="id-97e1aafed4e04d5bb215c0ebb639e30a">
         <bounds
-            x="24"
+            x="72"
             y="72"
             width="145"
             height="73"/>
@@ -959,26 +928,13 @@
           id="id-e09fa5897a24487f80fc7c4571b304e0"
           targetConnections="id-f410ed5551484e4d962f1c2be57c68d0">
         <bounds
-            x="192"
+            x="276"
             y="72"
             width="157"
             height="73"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-abc2875dfb0749d18f4e6e77cb4bdfba.xml#id-abc2875dfb0749d18f4e6e77cb4bdfba"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-da094514c4fc43ba8c407cfefa46c455"
-          targetConnections="id-43c69ebfecdd4699a102be30e73b5606">
-        <bounds
-            x="372"
-            y="72"
-            width="147"
-            height="73"/>
-        <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-7e515ad7a14149a588cc43b7f1d04c66.xml#id-7e515ad7a14149a588cc43b7f1d04c66"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -1747,7 +1703,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-292750aca86d4ed2bae49411427f7937"
-      name="Arquitectura de sistemas de información AS IS - Procesos Estratégicos"
+      name="Arquitectura de sistemas de información TO BE - Procesos Estratégicos"
       textAlignment="1"
       fillColor="#caffff">
     <bounds
