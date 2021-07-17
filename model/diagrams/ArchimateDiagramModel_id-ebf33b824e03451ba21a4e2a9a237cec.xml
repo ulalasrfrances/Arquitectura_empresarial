@@ -853,7 +853,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-1c43965bd89e4d3383b653df15b10dd5"
-      name="Arquitectura de negocios AS IS - Procesos estratégicos"
+      name="Arquitectura de negocios TO BE - Procesos estratégicos"
       textAlignment="1"
       fillColor="#ffffd2">
     <bounds
@@ -1747,7 +1747,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-292750aca86d4ed2bae49411427f7937"
-      name="Arquitectura de sistemas de información AS IS - Procesos Estratégicos"
+      name="Arquitectura de sistemas de información TO BE - Procesos Estratégicos"
       textAlignment="1"
       fillColor="#caffff">
     <bounds
