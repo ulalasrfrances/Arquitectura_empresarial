@@ -3144,9 +3144,9 @@
       textAlignment="1"
       fillColor="#9393ca">
     <bounds
-        x="648"
+        x="672"
         y="1622"
-        width="985"
+        width="937"
         height="431"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -3218,7 +3218,7 @@
             href="CompositionRelationship_id-86b8c263a900441a8fc7742b3ee82830.xml#id-86b8c263a900441a8fc7742b3ee82830"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="24"
           y="36"
           width="409"
           height="265"/>
@@ -3423,7 +3423,7 @@
             href="CompositionRelationship_id-724861601e2347e0a6f3a1a38a9dfdd3.xml#id-724861601e2347e0a6f3a1a38a9dfdd3"/>
       </sourceConnections>
       <bounds
-          x="492"
+          x="468"
           y="36"
           width="445"
           height="385"/>
