@@ -6,6 +6,6 @@
       xsi:type="archimate:Junction"
       href="Junction_id-cf150e77d6374e89a1bd5900f84ff303.xml#id-cf150e77d6374e89a1bd5900f84ff303"/>
   <target
-      xsi:type="archimate:Junction"
-      href="Junction_id-e460dc70d5c14531b69674f7691b7dd5.xml#id-e460dc70d5c14531b69674f7691b7dd5"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-dd4744bb7cdb4253ab2e7a11dd101f0f.xml#id-dd4744bb7cdb4253ab2e7a11dd101f0f"/>
 </archimate:AssignmentRelationship>
