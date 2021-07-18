@@ -2706,8 +2706,8 @@
       <bounds
           x="276"
           y="603"
-          width="156"
-          height="72"/>
+          width="205"
+          height="105"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-8ddcde93f46643a8b03ffc061d29d297.xml#id-8ddcde93f46643a8b03ffc061d29d297"/>
